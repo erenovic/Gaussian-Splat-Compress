@@ -1,3 +1,5 @@
 tandt_db.zip
 /tandt/*
 /db/*
+/output/*
+**/__pycache__/
